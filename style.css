@@ -5,7 +5,7 @@ body {
   font-family: Helvetica, sans-serif;
 	font-size: 19px;
   font-weight: lighter;
-  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("images/IMG_1131.jpg");
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("images/IMG_1131.JPG");
   background-size: cover;
   background-position: center;
 }
